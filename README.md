@@ -1,6 +1,6 @@
 
-I'm Kelvin Euclides - [Android Developer :fire:], 
-and [PHP Laravel Developer :elephant:].
+I'm Kelvin Euclides - Android Developer :fire:, 
+and PHP Laravel Developer :elephant:.
 
 If you want to know more about me, I:
 - :computer: am skilled in PHP, Android, Kotlin,Flutter and Java.
