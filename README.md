@@ -1,5 +1,5 @@
 
-I'm Kelvin Euclides - Android Developer :fire:, 
+I'm Kelvin Euclides - Android Developer 📱, 
 and PHP Laravel Developer :elephant:.
 
 If you want to know more about me, I:
